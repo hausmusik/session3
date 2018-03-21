@@ -79,6 +79,8 @@ body {
 }
 
 a:link, a:visited {
+    color: black;
+    
 }
 .gray, .gray a:link, .gray a:visited {
     color: gray;
