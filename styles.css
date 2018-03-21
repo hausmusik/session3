@@ -47,29 +47,42 @@ body {
 }
 
 .article {
+    width: 70%;
+    margin: auto;
+
 }
 .article figure {
+    margin-left: 0;
 }
 .article figure img {
+    width: 80%;
+
 }
 .article figure figcaption {
+    margin-left: -11.5;
+    width: 11,5;
+    float: left;
 }
 
 #map {
 }
 
 #footer {
+    padding: 1em 0 3em 0;
+
 }
 #footer .back {
+    float: left;
 }
 #footer .next {
+    float: right;
 }
 
 a:link, a:visited {
 }
 .gray, .gray a:link, .gray a:visited {
     color: gray;
-    
+
 }
 .white, .white a:link, .white a:visited {
     color: white;
